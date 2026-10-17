@@ -3,6 +3,9 @@
 **An experimental address-resolution prototype for informal Nigerian addresses.**
 
 IbiSure explores how informal descriptions, landmarks, spelling variations, and incomplete address details can be processed to suggest possible address matches while communicating uncertainty.
+## Demo
+
+![IbiSure application interface](docs/ibisure-demo.png)
 
 > **Status:** Early-stage prototype. The demonstration dataset contains synthetic records only. Real-world address accuracy has not yet been evaluated.
 
