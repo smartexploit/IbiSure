@@ -1,0 +1,41 @@
+﻿[
+  {
+    "record_id": "SYN-001",
+    "original_address_text": "near the big roundabout, ado ekiti",
+    "normalized_address": "big roundabout ado ekiti",
+    "locality": "Ado-Ekiti",
+    "landmark": "Big Roundabout",
+    "latitude": null,
+    "longitude": null,
+    "data_source": "synthetic_test_data",
+    "permission_status": "not_applicable",
+    "verification_status": "unverified",
+    "reviewer_notes": "Invented example for software testing only."
+  },
+  {
+    "record_id": "SYN-002",
+    "original_address_text": "beside the main market in ado",
+    "normalized_address": "main market ado ekiti",
+    "locality": "Ado-Ekiti",
+    "landmark": "Main Market",
+    "latitude": null,
+    "longitude": null,
+    "data_source": "synthetic_test_data",
+    "permission_status": "not_applicable",
+    "verification_status": "unverified",
+    "reviewer_notes": "Invented example; not a verified real-world location."
+  },
+  {
+    "record_id": "SYN-003",
+    "original_address_text": "opposite the bus park, ado ekiti",
+    "normalized_address": "bus park ado ekiti",
+    "locality": "Ado-Ekiti",
+    "landmark": "Bus Park",
+    "latitude": null,
+    "longitude": null,
+    "data_source": "synthetic_test_data",
+    "permission_status": "not_applicable",
+    "verification_status": "unverified",
+    "reviewer_notes": "Invented example for software testing only."
+  }
+]
